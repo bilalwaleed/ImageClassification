@@ -16,3 +16,13 @@ This contains the saved model which is loaded in the gui notebook
 
 GUIs.ipynb:
 Please run all to open the guis.
+
+The datasets can be downloaded at:
+https://storage.cloud.google.com/quickdraw_dataset/full/numpy_bitmap/circle.npy
+https://storage.cloud.google.com/quickdraw_dataset/full/numpy_bitmap/diamond.npy
+https://storage.cloud.google.com/quickdraw_dataset/full/numpy_bitmap/square.npy
+https://storage.cloud.google.com/quickdraw_dataset/full/numpy_bitmap/star.npy
+https://storage.cloud.google.com/quickdraw_dataset/full/numpy_bitmap/triangle.npy
+
+However they need to be renamed as:
+cirle.npy; diamond.npy; square.npy; star.npy; triangle.npy
