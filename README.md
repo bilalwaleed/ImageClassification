@@ -4,7 +4,8 @@ This notebook contains the training process with outputs shown already.
 Please do not rerun as this will yield error because the datasets have not been included.
 This also serves as the main report with the pdf as a backup
 
-The notebooks were run in the intro-ml environment.
+The notebooks were run in the intro-ml environment which is provided as 'intro-ml-env.yml'.
+
 Please install openCV as well using the 'pip install opencv-python' command
 
 Test Images:
