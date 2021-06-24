@@ -17,7 +17,7 @@ This contains the saved model which is loaded in the gui notebook
 GUIs.ipynb:
 Please run all to open the guis.
 
-The datasets can be downloaded at:
+The datasets can be downloaded at:<br>
 https://storage.cloud.google.com/quickdraw_dataset/full/numpy_bitmap/circle.npy
 https://storage.cloud.google.com/quickdraw_dataset/full/numpy_bitmap/diamond.npy
 https://storage.cloud.google.com/quickdraw_dataset/full/numpy_bitmap/square.npy
